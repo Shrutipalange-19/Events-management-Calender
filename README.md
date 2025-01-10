@@ -68,4 +68,5 @@ The goal of this project is to demonstrate advanced React.js logic, UI/UX design
 
 ---
 ## **to run the project** :
+npm install
 npm start
